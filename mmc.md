@@ -11,14 +11,15 @@ $M.M.C(8, 12) = 24$
 ## MÉTODO PRÁTICO
 A divisão é feita somente por números primos.
 
-~~~math
-\begin{flushleft}
+$$
 \begin{array}{c|c}
-    8,12 & {\color{red} 2} \\
-    4,6 & {\color{red} 2} \\
-    2,3 & {\color{red} 2} \\
-    1,3 & {\color{red} 3} \\
+    8,12 & 2  \\
+    4,6 & 2 \\
+    2,3 & 2 \\
+    1,3 & 3 \\
     1,1
 \end{array}
-\end{flushleft}
-~~~
+$$
+
+$2 \times 2 \times 2 \times 3= 24$
+$M.M.C(8, 12) = 24$
