@@ -3,32 +3,18 @@ Conjunto é uma coleção ou agrupamento de elementos ou objetos que podem ser \
 classificados de acordo com as características que apresentam.
 
 ## NÚMEROS NATURAIS
-~~~math
-\mathbb{N} = \{0, 1, 2, 3, 4, 5, ...\}
-~~~
+* $\mathbb{N} = \{0, 1, 2, 3, 4, 5, ...\}$
 
 ### SUBCONJUNTO DOS NÚMEROS NATURAIS
-~~~math
-\mathbb{N} = \{1, 2, 3, 4, 5, ...\}
-~~~
+* $\mathbb{N} = \{1, 2, 3, 4, 5, ...\}$
 
 ## NÚMEROS INTEIROS
-~~~math
-\mathbb{Z} = \{..., -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, ...\}
-~~~
+* $\mathbb{Z} = \{..., -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, ...\}$
 
 ### SUBCONJUNTOS DOS NÚMEROS INTEIROS
-~~~math
-\mathbb{Z}* = \{..., -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, ...\}
-~~~
-
-~~~math
-\mathbb{Z}+ = \{0, 1, 2, 3, 4, 5, ...\}
-~~~
-
-~~~math
-\mathbb{Z}- = \{..., -5, -4, -3, -2, -1, 0\}
-~~~
+* $\mathbb{Z}* = \{..., -5, -4, -3, -2, -1, 1, 2, 3, 4, 5, ...\}$
+* $\mathbb{Z}+ = \{0, 1, 2, 3, 4, 5, ...\}$
+* $\mathbb{Z}- = \{..., -5, -4, -3, -2, -1, 0\}$
 
 ## NÚMEROS RACIONAIS
 Representado pela letra $\mathbb{Q}$, é formado por todos os números que podem \
